@@ -18,7 +18,7 @@ $90,000</li>
 $10,000. For example: How many employees fall into a band of
 $10,000 – $20,000, $20,000 – $30,000 etc. Also, visualize this
 by regions
-</li> Calculate the amount to be paid as a bonus to individual
+<li> Calculate the amount to be paid as a bonus to individual
 employees</li>
 - Calculate the total amount to be paid to individual employees
 (salary inclusive of bonus)
