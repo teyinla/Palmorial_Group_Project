@@ -1,7 +1,9 @@
 # Palmorial_Group_Project
 This analysis is based on gender-related issues within Palmorial Group, a manufacturing company based in Nigeria.
 
-This analysis was carried out using PowerBI. The project aimed to answer the following questions:
+This analysis was carried out using PowerBI. I performed ETL on the data set, built models using the relationship between the tables, created new columns and new measures where necessary,
+and built two dashboards to show visualizations.
+The project aimed to answer the following questions:
 
 <ol>
    <li>What is the gender distribution in the organization? Distil to
