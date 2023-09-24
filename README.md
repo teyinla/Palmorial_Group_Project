@@ -16,6 +16,7 @@ regions that should be the focus of management</li>
 manufacturing companies to pay employees a minimum of
 $90,000</li>
 - Does Palmoria meet this requirement?
+   
 - Show pay distribution of employees grouped by a band of
 $10,000. For example: How many employees fall into a band of
 $10,000 – $20,000, $20,000 – $30,000 etc. Also, visualize this
@@ -24,6 +25,7 @@ by regions
 employees</li>
 - Calculate the total amount to be paid to individual employees
 (salary inclusive of bonus)
+   
 - Total amount to be paid out per region and company-wide
 
 
